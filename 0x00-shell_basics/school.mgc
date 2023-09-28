@@ -1,3 +1,2 @@
 #!/bin/bash
-0 string SCHOOL School data file
-
+File -C -m file name
